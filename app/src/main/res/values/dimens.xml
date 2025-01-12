@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextSize for TextView -->
+    <dimen name="textSizeSmall">8sp</dimen>
+    <dimen name="textSizeNormal">16sp</dimen>
+    <dimen name="textSizeLarge">32sp</dimen>
+    <dimen name="textSizeHeader">24sp</dimen>
+    <dimen name="textSizeSubHeader">20sp</dimen>
+    <dimen name="textSizeBody">16sp</dimen>
+
+    <!-- Vertical Margin -->
+    <dimen name="verticalMarginSmall">8dp</dimen>
+    <dimen name="verticalMarginNormal">16dp</dimen>
+    <dimen name="verticalMarginLarge">32dp</dimen>
+
+    <!-- Horizontal Margin -->
+    <dimen name="horizontalMarginSmall">8dp</dimen>
+    <dimen name="horizontalMarginNormal">16dp</dimen>
+    <dimen name="horizontalMarginLarge">32dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="paddingSmall">8dp</dimen>
+    <dimen name="paddingNormal">16dp</dimen>
+    <dimen name="paddingLarge">32dp</dimen>
+</resources>
