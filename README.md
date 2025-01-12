@@ -7,5 +7,5 @@
 В папке ресурсов цвета создать палитру своих цветов.
 
 Screenshot:
-![100](https://github.com/Slayder12/DimensionsStyles/blob/main/assets/1.png)
+![](https://github.com/Slayder12/DimensionsStyles/blob/main/assets/1.png)
 
